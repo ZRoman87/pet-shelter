@@ -1,5 +1,5 @@
 # Pet Shelter 
-### (pet study project)
+
 <h4 align="center">
   <img alt="pet shelter" src="pet-shelter.jpg">
 </h4>
